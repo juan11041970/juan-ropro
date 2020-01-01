@@ -197,6 +197,12 @@ li {
     max-width: 200px;
 }
 
+.dark {
+    color: #DADADA;
+    background: #1c2022;
+    min-height: 100%;
+}
+
 .dark-btn {
     color: #e6e6e6;
     background: #141414;
@@ -231,4 +237,8 @@ li {
 
 .btn-space {
     margin: 40px auto;
+}
+
+.bg-dark {
+    background: rgb(36,40, 42);
 }
